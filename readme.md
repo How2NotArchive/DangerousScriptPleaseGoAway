@@ -9,7 +9,7 @@ damage this can cause to you and the others.
 If you are not sure what's happening and are just wandering around,
 please do **NOT** execute/use it, just **EXIT** and **DELETE** the file as soon as
 possible! This script can attach itself and send itself to any persons
-on your contact list, causing a **HUGE** damage.
+on your Outlook contact list, causing a **HUGE** damage.
 
 # THIS IS THE LAST WARNING!
 Again, please do **NOT** attempt to share/compute it anywhere if you are not
