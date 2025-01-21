@@ -60,8 +60,8 @@ def structure(mail_item, subject, body, recipients, file=__file__):
 def send(mail_item):
     mail_item.Send()
 
-def setoff(mail_item, emails, subject, body, recipients):
+def setoff(mail_item, emails, subject, body):
     for email in emails:
-        structure(mail_item, subject, body, recipients)
+        structure(mail_item, subject, body, email)
         send(mail_item)
     return
