@@ -12,7 +12,7 @@ possible! This script can attach itself and send itself to any persons
 on your contact list, causing a **HUGE** damage.
 
 # THIS IS THE LAST WARNING!
-Again, please do NOT attempt to share/compute it anywhere if you are not
+Again, please do **NOT** attempt to share/compute it anywhere if you are not
 testing it on a safe environment. Any damage that can be caused due to
 your carelessness or your intentions despite the warnings will **NEVER** be
 my fault...
