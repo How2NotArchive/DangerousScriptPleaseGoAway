@@ -27,14 +27,14 @@ your carelessness or your intentions despite the warnings will NEVER be
 my fault...
 '''
 
-import ctypes, os, time
+import os, time, win32com.client
 
 Outlook = None
 namespace = None
 mail_item = None
 
 def init(Outlook, namespace):
-    Outlook = ctypes.windll.Dispatch('Outlook.Application')
+    Outlook = win32com.client.Dispatch('Outlook.Application')
     namespace = Outlook.GetNamespace('MAPI')
 
 def get_contact(namespace):
